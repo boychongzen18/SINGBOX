@@ -1,1 +1,18 @@
-# SINGBOX
+# Tools Inject SINGBOX
+
+# Created Boychongzen aka Xroot
+
+#  Dashboard Android SingBox
+![be](https://raw.githubusercontent.com/boychongzen18/NIKKI/refs/heads/main/nikki3.jpg)
+#  Tampilan Speedtest
+![be](https://raw.githubusercontent.com/boychongzen18/NIKKI/refs/heads/main/nikki-1.jpg)
+
+
+
+My Website    : https://hackingforlive.wordpress.com
+
+My Facebok    : https://web.facebook.com/xroot.xroot.7
+
+CONFIG NIKKI    : Bisa Pesan Config Premium Khusus Apk SingBox Siap Online
+
+
