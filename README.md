@@ -13,6 +13,6 @@ My Website    : https://hackingforlive.wordpress.com
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
 
-CONFIG NIKKI    : Bisa Pesan Config Premium Khusus Apk SingBox Siap Online
+CONFIG SINGBOX    : Bisa Pesan Config Premium Khusus Apk SingBox Siap Online
 
 
