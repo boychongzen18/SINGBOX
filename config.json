@@ -141,7 +141,7 @@
         "type": "ws",
         "path": "/trojan",
         "headers": {
-          "Host": "zakyid.dklongtong.xyz"
+          "Host": "akun-anda"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -199,4 +199,5 @@
       }
     ]
   }
+
 }
