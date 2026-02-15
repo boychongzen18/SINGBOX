@@ -1,0 +1,129 @@
+
+
+
+#######################################################################################
+        "type":"trojan",
+        "tag":"trojan-gfw",
+        "server":"SERVERAKUN",
+        "server_port":443,
+        "password":"PASSWORD",
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "tls":{
+          "enabled":true,
+          "disable_sni":false,
+          "server_name":"BUGSNI.COM",
+          "insecure":true,
+          "utls":{
+            "enabled":false,
+            "fingerprint":"random"
+#######################################################################################
+
+        "type":"vmess",
+        "tag":"vmess-ws-443",
+        "server":"172.67.73.39",
+        "server_port":443,
+        "uuid":"UUID",
+        "security":"auto",
+        "alter_id":0,
+        "global_padding":false,
+        "authenticated_length":true,
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "tls":{
+          "enabled":true,
+          "disable_sni":false,
+          "server_name":"HOSTNAME",
+          "insecure":false,
+          "utls":{
+            "enabled":false,
+            "fingerprint":"android"
+
+#######################################################################################
+        "type":"vmess",
+        "tag":"vmess-ws-80",
+        "server":"172.67.73.39",
+        "server_port":80,
+        "uuid":"UUID",
+        "security":"auto",
+        "alter_id":0,
+        "global_padding":false,
+        "authenticated_length":true,
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "packet_encoding":"",
+        "multiplex":{
+          "enabled":false,
+          "protocol":"smux",
+          "max_connections":4,
+          "min_streams":4,
+          "max_streams":0
+
+#######################################################################################
+        "type":"vmess",
+        "tag":"vmess-grpc",
+        "server":"104.20.74.141",
+        "server_port":443,
+        "uuid":"UUID",
+        "security":"auto",
+        "alter_id":0,
+        "global_padding":false,
+        "authenticated_length":true,
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "tls":{
+          "enabled":true,
+          "disable_sni":false,
+          "server_name":"HOSTNAME",
+          "insecure":false
+
+#######################################################################################
+        "type":"trojan",
+        "tag":"trojan-ws",
+        "server":"104.26.5.10",
+        "server_port":443,
+        "password":"PASSWORD",
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "tls":{
+          "enabled":true,
+          "disable_sni":false,
+          "server_name":"HOSTNAME",
+          "insecure":false,
+          "utls":{
+            "enabled":false,
+            "fingerprint":"ios"
+#######################################################################################
+
+        "type":"trojan",
+        "tag":"trojan-grpc",
+        "server":"104.17.2.81",
+        "server_port":443,
+        "password":"PASSWORD",
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "tls":{
+          "enabled":true,
+          "disable_sni":false,
+          "server_name":"HOSTNAME",
+          "insecure":false
+#######################################################################################
+
+        "type":"shadowsocks",
+        "tag":"shadowsocks-ws",
+        "server":"SERVERAKUN",
+        "server_port":443,
+        "method": "2022-blake3-aes-128-gcm",
+        "password":"PASSWORD",
+        "tcp_fast_open":false,
+        "domain_strategy":"ipv4_only",
+        "plugin": "v2ray-plugin",
+        "plugin_opts": "path=/buy-ss-ws-pm-telegram-at-synricha;host=store.zoom.us;tls",
+        "udp_over_tcp": false,
+        "multiplex":{
+          "enabled":false,
+          "protocol":"smux",
+          "max_connections":4,
+          "min_streams":4,
+          "max_streams":0
+#######################################################################################
